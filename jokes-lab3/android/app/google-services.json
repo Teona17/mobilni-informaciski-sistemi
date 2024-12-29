@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571824931831",
+    "project_id": "teona-mis-labs",
+    "storage_bucket": "teona-mis-labs.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571824931831:android:5b666a467852f39261e4f2",
+        "android_client_info": {
+          "package_name": "com.example.jokes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8fNqghaLrowiq8PM6-3Zpnl1yoUc3rN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
