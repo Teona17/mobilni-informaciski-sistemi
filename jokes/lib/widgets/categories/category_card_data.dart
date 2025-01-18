@@ -16,6 +16,7 @@ class CategoryCardData extends StatelessWidget {
           style: TextStyle(
             color: Colors.white,
             fontSize: 24,
+            
             fontWeight: FontWeight.bold,
             letterSpacing: 1.2,
           ),
